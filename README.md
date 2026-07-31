@@ -1,21 +1,134 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Web development projects using React, Next.js, Node.js, and MongoDB (including UI clones and a URL shortener).<br>🤝 I’m looking to collaborate on<br>Frontend & full-stack web projects, open-source contributions, and creative UI/UX ideas.<br>🆘 I’m looking for help with<br>Advanced backend concepts, system design, and scaling full-stack applications.<br>🌱 I’m currently learning<br>Advanced React, Next.js, APIs, animations (2D/3D), and improving problem-solving skills.<br>💬 Ask me about<br>HTML, CSS, JavaScript, React, Next.js, Bootstrap, Python, Java, and web project building.<br>⚡ Fun fact<br>I love turning ideas into real websites and enjoy learning new tech by building projects 🚀
+<div align="center">
 
+# 👋 Hi, I'm Shashikant Giri
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/shashikant_giri) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/shashikant.giri.7547031) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/shashikantgiri_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/shashikant-giri-7a4549297) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/@Shashikantgiri_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@ShashikantGiri-xw3eg) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/@Shashikantgiri-web) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashikantshankar707@gmail.com) 
+### Full Stack Web Developer • React • Next.js • Node.js • MongoDB
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shashikantgiri-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Shashikantgiri-web&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shashikantgiri-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Passionate about building modern web applications with clean UI,
+powerful backend systems, and scalable architecture.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shashikantgiri-web&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](YOUR_PORTFOLIO)
+[![Resume](https://img.shields.io/badge/Resume-PDF-success?style=for-the-badge)](./Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shashikantgiri-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+🎓 B.Sc. Information Technology Graduate
+
+💻 Full Stack Web Developer
+
+📚 Currently Learning Data Science & AI/ML
+
+🌱 Love building real-world SaaS products
+
+⚡ Always learning new technologies
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![NextJS](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+
+### Backend
+
+Node.js • Express.js
+
+### Database
+
+MongoDB • MySQL
+
+### Tools
+
+Git • GitHub • VS Code • Postman • Figma • Vercel
+
+---
+
+# ⭐ Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 💸 GetMyChap | Full Stack Fundraising Platform |
+| 🔗 BitLine | URL Shortener |
+| 🔐 PassOP | Password Manager |
+| 📊 Employee Performance Dashboard | Power BI + Python |
+| 🧾 Billing SaaS | Invoice Generation System |
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shashikantgiri-web&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikantgiri-web&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shashikantgiri-web&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashikantgiri-web&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Shashikantgiri-web/Shashikantgiri-web/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📄 Resume
+
+📥 Download my latest resume
+
+[Resume PDF](./Resume.pdf)
+
+---
+
+# 📫 Connect with Me
+
+📧 shashikntshankar707@gmail.com
+
+💼 LinkedIn
+
+🌐 Portfolio
+
+🐙 GitHub
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>
