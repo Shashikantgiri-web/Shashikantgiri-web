@@ -67,13 +67,6 @@ a combination that's rarer than it should be.
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Shashikantgiri-web&theme=github-dark&mode=light&variant=streak" />
-    <img src="https://www.gitskins.com/api/section/stats?username=Shashikantgiri-web&theme=github-dark&variant=streak" alt="Shashikantgiri-web streak section" />
-  </picture>
-</p>
-
 ---
 
 ## Let's Connect
